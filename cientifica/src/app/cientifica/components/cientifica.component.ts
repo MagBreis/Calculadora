@@ -129,3 +129,15 @@ export class CientificaComponent implements OnInit {
   };
 
 };
+
+
+// get display(): string {
+
+//   if (this.num2 != null) {
+//     return this.num1+this.operacao+this.num2
+//   }
+//   if(this.operacao !=null){
+//     return this.num1+this.operacao
+//   }
+//   return this.num1.toString();
+// }
